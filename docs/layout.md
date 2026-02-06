@@ -6,7 +6,7 @@ Certain emitters may also output [HTML](https://developer.mozilla.org/en-US/docs
 
 Each page is composed of multiple different sections which contain `QuartzComponents`. The following code snippet lists all of the valid sections that you can add components to:
 
-```typescript title="quartz/cfg.ts"
+```typescript
 export interface FullPageLayout {
   head: QuartzComponent // single component
   header: QuartzComponent[] // laid out horizontally
@@ -29,7 +29,7 @@ These correspond to following parts of the page:
 
 > [!note]
 > There are two additional layout fields that are _not_ shown in the above diagram.
->
+> 
 > 1. `head` is a single component that renders the `<head>` [tag](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/head) in the HTML. This doesn't appear visually on the page and is only is responsible for metadata about the document like the tab title, scripts, and styles.
 > 2. `header` is a set of components that are laid out horizontally and appears _before_ the `beforeBody` section. This enables you to replicate the old Quartz 3 header bar where the title, search bar, and dark mode toggle. By default, Quartz 4 doesn't place any components in the `header`.
 
