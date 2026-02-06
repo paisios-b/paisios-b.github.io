@@ -2,7 +2,7 @@
 draft: "false"
 ---
 ✱ Ask Gemini
-[[Index]]
+[[index]]
 
 
 ~~~~~~~~~~~~~
