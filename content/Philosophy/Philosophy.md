@@ -1,3 +1,6 @@
+---
+draft: "false"
+---
 index
 
 [[Schopenhauer]]
