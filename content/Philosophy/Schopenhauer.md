@@ -3,6 +3,6 @@ draft: "false"
 ---
 Articles go here
 
-[[Philosophy|Philosophy]]
+[[Philosophy Notes|Philosophy]]
 
 

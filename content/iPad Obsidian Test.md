@@ -9,7 +9,7 @@ Testing output from iPad.
 
 Linking back to [[Hello World]]
 
-[[Linux Desktop]] 
+[[Linux Desktop Test]] 
 
 I'm going to test github sync one more time from my Desktop....
 …And from my iPad.
