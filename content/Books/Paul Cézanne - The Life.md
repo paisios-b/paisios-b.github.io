@@ -2,7 +2,10 @@
 draft: "false"
 tags:
   - book
+  - artist
 ---
-Book by Chuck Klosterman
 
+Book review
+
+[[Paul Cézanne]]
 [[Reading List]]
